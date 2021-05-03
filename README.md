@@ -19,7 +19,7 @@ Ten of the twelve green energy stocks saw a negative return in 2018. The greates
 *2018 Green Stocks Results*
 
 ## Code
-Refactoring of the original subroutine proved beneficial in generating the results. A decrease in processing time was seen when generating results for each calendar year. This is due to the change made in the code requiring only one cycle through the dataset. 
+Refactoring of the original subroutine proved beneficial in generating the results. A decrease in processing time was seen when generating results for each calendar year. This is due to the change made in the code requiring only one cycle through the dataset. The run time for the 2017 dataset dropped from .6171875 seconds to .09375 seconds. The run time for the 2018 dataset also saw a drop from .6015625 seconds to .0859375 seconds.
 
 ![2017_Original](https://user-images.githubusercontent.com/82056100/116831889-14ea6000-ab80-11eb-8be3-3f06b9903ce1.PNG)
 
